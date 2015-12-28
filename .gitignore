@@ -1,0 +1,38 @@
+#maven
+target
+
+#eclipse
+.classpath
+.project
+.pydevproject
+.settings
+
+#idea
+.idea
+*iml
+atlassian-ide-plugin.xml
+
+#vim
+*.swp
+*.swn
+*.swo
+
+#gedit temp file
+*~
+
+#python
+*.pyc
+
+
+# OS generated files #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+/*merging files*/
+*.orig
+
